@@ -27,9 +27,9 @@ To run the code in this repository, you need to have the following dependencies 
 - OS
 You can install the required packages using the following command:
 ## Example USAGE
-![Content Image]('images/louvre_small.jpg')
-![Style Image]('images/sandstone.jpg')
-![Generated Image]('generated/final_image.png')
+![Content Image](images/camp-nou.jpg)
+![Style Image](images/sandstone.jpg)
+![Generated Image](generated/final_image.png)
 ```bash
 pip install numpy tensorflow matplotlib scipy h5py pillow
 
