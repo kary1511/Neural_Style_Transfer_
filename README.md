@@ -29,7 +29,7 @@ You can install the required packages using the following command:
 ## Example USAGE
 ![Content Image](images/camp-nou.jpg)
 Content Image
-![Style Image](images/sandstone.jpg)
+![Style Image](images/drop-of-water.jpg)
 Style Image
 ![Generated Image](generated/final_image.png)
 Generated Image
